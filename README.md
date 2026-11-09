@@ -4,7 +4,7 @@ Hi 👋 My name is Andres Saray
 Frontend Developer
 ------------------
 
-I am tecnic software developer and future informatic engineer, I am 21 years old and i working like software development since 18 years old.
+I am a Software Developer with 6 years of experience in software development, currently pursuing a degree in Computer Engineering. I am passionate about technology, problem-solving, and building software solutions.
 
 * 🌍  I'm based in Villavicencio
 * ✉️  You can contact me at [andressaray14@gmail.com](mailto:andressaray14@gmail.com)
